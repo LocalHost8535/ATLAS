@@ -1,0 +1,21 @@
+{
+  "name": "atlas-transit",
+  "version": "1.0.0",
+  "description": "Premium real-time bus tracking system for Indian transit.",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "transit",
+    "bus",
+    "india",
+    "tracking"
+  ],
+  "author": "Atlas Team",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ATLAS",
+  "description": "Premium real-time bus tracking and route management system for Indian transit with schedules, fares, and user profiles.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
